@@ -1,4 +1,1 @@
-chatgo
-======
-
-Basic chat server in Go.
+My unfinished toy project in Go.
